@@ -1,8 +1,27 @@
 aid: haber
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/haber.png
 name: Haber
-description: 'Haber is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: automation. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Haber (Elixa Technologies Private Limited), headquartered in Pune, India with a
+  US presence in Chicago, is an industrial AI company delivering AI-led automation for smart
+  manufacturing across heavy industries including pulp, paper, packaging and tissue, metals and
+  mining, food and beverages, oil and gas, and water/utility institutions. Its product suite
+  spans eLIXA, an IIoT-powered process intelligence platform; Mt. Fuji for historical data
+  storage, visualizations, digital twins and predictive interventions; Kaiznn, an optimization
+  engine for trim-loss reduction, inventory and production scheduling; plus Kensei and FiMorph.
+  The platform emphasizes real-time monitoring, predictive analytics, and enterprise-grade
+  security (SOC 2 Type 2, ISO/IEC 27001:2022). Surfaced as a portfolio company of Accel and
+  enriched into the API Evangelist network.'
 url: https://raw.githubusercontent.com/api-evangelist/haber/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Automation
+- Artificial Intelligence
+- Industrial Automation
+- Smart Manufacturing
+- IIoT
+- Process Optimization
+- Predictive Analytics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +49,19 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.haberwater.com
+  url: https://www.haberwater.com
+- type: Blog
+  url: https://www.haberwater.com/blog
+- type: PrivacyPolicy
+  url: https://www.haberwater.com/privacy-policies
+- type: Compliance
+  url: https://www.haberwater.com/security
+- type: TrustCenter
+  url: security/haber-trust-center.yml
+- type: DomainSecurity
+  url: security/haber-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
