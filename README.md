@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Haber is a company surfaced as a portfolio company of accel and added to the API Evangelist network as a stub for enrichment. Sector: automation. This profile is a lead awaiting the enrichment pipeline.
+Haber (Elixa Technologies Private Limited), headquartered in Pune, India with a US presence in Chicago, is an industrial AI company delivering AI-led automation for smart manufacturing across heavy industries including pulp, paper, packaging and tissue, metals and mining, food and beverages, oil and gas, and water/utility institutions. Its product suite spans eLIXA, an IIoT-powered process intelligence platform; Mt. Fuji for historical data storage, visualizations, digital twins and predictive interventions; Kaiznn, an optimization engine for trim-loss reduction, inventory and production scheduling; plus Kensei and FiMorph. The platform emphasizes real-time monitoring, predictive analytics, and enterprise-grade security (SOC 2 Type 2, ISO/IEC 27001:2022). Surfaced as a portfolio company of Accel and enriched into the API Evangelist network.
 
-Backed by: accel — http://www.haberwater.com
+**Areas:** Company · Automation · Artificial Intelligence · Industrial Automation · Smart Manufacturing · Industrial IoT · Process Optimization · Predictive Analytics
+
+## Haber on APIs.io
+
+Everything profiled for Haber is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/haber/](https://apis.io/providers/haber/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Haber Domain Security](https://apis.io/security/haber/haber-domain-security/)
+- [Haber Trust Center](https://apis.io/security/haber/haber-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.haberwater.com)
+- [Blog](https://www.haberwater.com/blog)
+- [Compliance](https://www.haberwater.com/security)
+- [Privacy policy](https://www.haberwater.com/privacy-policies)
+
+## API Evangelist rating
+
+**Kin Score 10.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 26.3 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/haber/](https://apis.io/providers/haber/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Haber: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/haber/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
